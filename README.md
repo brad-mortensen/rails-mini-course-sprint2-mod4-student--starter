@@ -44,3 +44,5 @@ We want to write a spec for the RewardsReport#notify method. This method calls a
 2. Write an isolated spec for the `.notify` instance method of RewardsReport.
 3. Use a Spy to allow and then expect the method that is called and the value it is called with.
 4. Assert that the spy received the value 200 (the total of our doubles) as a parameter to the `send_purchase_report` method.
+
+Init -- Brad Mortensen
