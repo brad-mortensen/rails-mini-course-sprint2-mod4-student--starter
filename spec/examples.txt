@@ -1,0 +1,8 @@
+example_id                                    | status  | run_time        |
+--------------------------------------------- | ------- | --------------- |
+./spec/models/employee_spec.rb[1:1]           | pending | 0.00001 seconds |
+./spec/models/reward_purchase_spec.rb[1:1]    | pending | 0.00001 seconds |
+./spec/models/reward_spec.rb[1:1]             | pending | 0.00001 seconds |
+./spec/models/rewards_report_spec.rb[1:1]     | pending | 0.00001 seconds |
+./spec/requests/create_employees_spec.rb[1:1] | pending | 0.00002 seconds |
+./spec/requests/create_rewards_spec.rb[1:1]   | pending | 0.00001 seconds |
