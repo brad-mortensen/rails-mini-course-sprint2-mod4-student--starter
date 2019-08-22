@@ -8,9 +8,9 @@ Inside the employee model spec, define a structure to separate the tests for Val
 
 ### Validations
 
-1. Test that an employee can be valid when properly set up.
-2. Test that an employee is invalid without a `first_name`.
-3. Test that an employee is invalid without a `last_name`
+1. Test that an employee can be valid when properly set up. √
+2. Test that an employee is invalid without a `first_name`. √
+3. Test that an employee is invalid without a `last_name`   √
 
 ### Attributes
 
