@@ -8,9 +8,9 @@ Inside the employee model spec, define a structure to separate the tests for Val
 
 ### Validations
 
-1. Test that an employee can be valid when properly set up.
-2. Test that an employee is invalid without a `first_name`.
-3. Test that an employee is invalid without a `last_name`
+1. Test that an employee can be valid when properly set up. √
+2. Test that an employee is invalid without a `first_name`. √
+3. Test that an employee is invalid without a `last_name`   √
 
 ### Attributes
 
@@ -44,3 +44,5 @@ We want to write a spec for the RewardsReport#notify method. This method calls a
 2. Write an isolated spec for the `.notify` instance method of RewardsReport.
 3. Use a Spy to allow and then expect the method that is called and the value it is called with.
 4. Assert that the spy received the value 200 (the total of our doubles) as a parameter to the `send_purchase_report` method.
+
+Init -- Brad Mortensen
